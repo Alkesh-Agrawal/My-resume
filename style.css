@@ -1,0 +1,24 @@
+.header-1 {
+  text-align: center;
+  margin-top: 20px;
+}
+.link {
+  color: aliceblue;
+}
+
+.box-1 {
+  height: 10px;
+  width: 10px;
+  color: aquamarine;
+}
+.italicised {
+  color: lightseagreen;
+}
+
+.footer {
+  background-color: #00a19d;
+  height: 50px;
+  width: 100%;
+  padding-top: 10px;
+  text-align: center;
+}
